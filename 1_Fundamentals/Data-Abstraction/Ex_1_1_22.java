@@ -7,7 +7,6 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-
 public class Ex_1_1_22 {
 
     private Ex_1_1_22() { }
@@ -42,7 +41,6 @@ public class Ex_1_1_22 {
     }
 
     public static void main(String[] args) {
-
         // read the integers from a file
     	 String pathname ="D:\\JAVA_WORK\\suanfa4\\src\\z_1\\largeW.txt"; 
          File filename = new File(pathname); 
